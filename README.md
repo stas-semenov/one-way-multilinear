@@ -2,7 +2,7 @@
 
 ## One-way Multilinear Functions with Linear Shifts
 
-This repository contains the implementation and research materials for a novel class of binary operations on finite-dimensional vector spaces. These operations are defined by **second-order multilinear expressions with affine shifts**.
+This repository contains the implementation and research materials for a novel class of binary operations on finite-dimensional vector spaces. These operations are defined by **second-order multilinear expressions with linear shifts**.
 
 ### Key Characteristics:
 
