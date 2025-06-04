@@ -15,6 +15,12 @@ This repository contains the implementation and research materials for a novel c
 
 * `M3System.ipynb`: Python implementation of the 3-dimensional multilinear operation (M3) over finite fields.
 * `M4System.ipynb`: Python implementation of the 4-dimensional multilinear operation (M4) over finite fields.
-* `one_way_function.pdf`: The full research paper detailing the mathematical foundations, proofs, and extended analysis.
 
 This project aims to contribute to the fields of **algebraic dynamics**, **symbolic computation**, and the development of **novel cryptographic primitives**.
+
+### Citation
+
+If you use this code or concepts from this repository in your research, please cite:
+
+Semenov, S. (2025). *One-way multilinear functions of the second order with linear shifts*. Zenodo.  
+DOI: [10.5281/zenodo.15593332](https://doi.org/10.5281/zenodo.15593332)
