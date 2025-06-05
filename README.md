@@ -15,6 +15,7 @@ This repository contains the implementation and research materials for a novel c
 
 * `M3System.ipynb`: Python implementation of the 3-dimensional multilinear operation (M3) over finite fields.
 * `M4System.ipynb`: Python implementation of the 4-dimensional multilinear operation (M4) over finite fields.
+* `M3_PRNG.ipynb`: Generates a sequence of pseudorandom numbers using sequential multiplication of an M3Element by itself and plots the distribution of the generated numbers for each component.
 
 This project aims to contribute to the fields of **algebraic dynamics**, **symbolic computation**, and the development of **novel cryptographic primitives**.
 
