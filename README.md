@@ -24,4 +24,4 @@ This project aims to contribute to the fields of **algebraic dynamics**, **symbo
 If you use this code or concepts from this repository in your research, please cite:
 
 Semenov, S. (2025). *One-way multilinear functions of the second order with linear shifts*. Zenodo.  
-DOI: [10.5281/zenodo.15593332](https://doi.org/10.5281/zenodo.15593332)
+DOI: [10.5281/zenodo.15694014](https://doi.org/10.5281/zenodo.15694014)
